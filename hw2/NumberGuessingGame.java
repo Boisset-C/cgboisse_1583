@@ -1,4 +1,5 @@
 //Submitted by Cosme Boisset - HW2 - A Number Guessing Game
+//Link to repo: https://gitlab.cs.uno.edu/cgboisse/cgboisse_1583/-/tree/main/hw2?ref_type=heads
 import java.util.Scanner;
 import java.util.Random;
 
